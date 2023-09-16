@@ -5,6 +5,6 @@
 
 ## Skills
 - [⌚😅] **Dedicated** If I set my mind to something I will get it done.
-- [🧠📚] **Eager to Learn** Started at **12**, continuing on at 16. Taken **Web Development**, **Intro to CS**, and **Computer Programming** in high school.
+- [🧠📚] **Eager to Learn** Started at **12**, continuing on at **16**. Taken **Web Development**, **Intro to CS**, and **Computer Programming** in high school.
 - [🖼️🖱] **UI** design
 - [🕹️🛠️] **Game** development *(ROBLOX Game Engine)*
